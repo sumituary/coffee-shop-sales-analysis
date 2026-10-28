@@ -31,7 +31,7 @@ The goal is to explore sales performance, identify useful business trends, and p
 
 ## Dashboard Preview
 
-*Dashboard screenshots will be added here.*
+![Coffee Shop Sales Dashboard](dashboard.png)
 
 ## Key Insights
 
