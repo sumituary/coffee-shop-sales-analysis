@@ -1,4 +1,4 @@
-# coffee-shop-sales-analysis
+# Excel-coffee-shop-sales-analysis
 Coffee shop sales analysis and interactive Excel dashboard
 # Coffee Shop Sales Analysis Dashboard
 
